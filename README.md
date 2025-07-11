@@ -13,4 +13,4 @@ Angular is my favorite framework but I have knowledge of React and I am training
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivetharc&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivetharc&theme=dark)](https://git.io/streak-stats)
