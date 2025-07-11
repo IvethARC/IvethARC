@@ -10,7 +10,3 @@ Angular is my favorite framework but I have knowledge of React and I am training
 ## Language Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivetharc&layout=compact)
-
-## Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivetharc&theme=dark)](https://git.io/streak-stats)
